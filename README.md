@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m diving deeper into advanced topics like Multimodality LLM and Cot Reasoning...
 - 📫 You can reach me at: jiew5@illinois.edu 
 - ⚡ Fun fact: Beyond my love for technology, I also have a passion for coffee and art. Sipping a cup of coffee while exploring new ideas is one of my favorite ways to relax.
-- ☕ New club: This year, I gonna set up a new club named "PhiloCoffee" in ZJUI. Feel free to submit issue if you have any idea! https://github.com/PhiloCoffee/PhiloCoffee
+- ☕ New club: This year, I gonna set up a new club named "PhiloCoffee" in ZJUI. Feel free to submit issue if you have any idea! https://PhiloCoffee.github.io
 - This summer, I will continue my research and coursework, mainly concentrating on the possiblity of LLM+Autonomous Driving
 
 <div align="center">
