@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Everloom-129" />
 </div>
-![profile_view_counter](https://komarev.com/ghpvc/?username=Everloom-129&style=for-the-badge&color=grey)
+<!-- ![profile_view_counter](https://komarev.com/ghpvc/?username=Everloom-129&style=for-the-badge&color=grey) -->
+<div align="center">
+    <img  src="https://komarev.com/ghpvc/?username=Everloom-129&style=for-the-badge&color=blue" />
+</div>
