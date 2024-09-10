@@ -6,13 +6,15 @@
 Here are some ideas to get you started:
 
 -->
-- 📖 I'm a student from ZJU-UIUC Institute majoring in Computer Engineering and currently studying at the University of Pennsylvania...
-- ⭐️ My interests are quite diverse, spanning from vision-language model to autonomous vehicle safety, software architecture, and wireless network analysis...
-- 🔭 I'v conducted a comprehensive research on open-source software communities and effectiveness, as well as working on autonomous vehicle safety testing...
-- 🌱 I’m diving deeper into advanced topics like Multimoda LLM + Robotics
+Hi, I am Jie Wang(王杰), you can call me Tony. 
+
+- 📖 I'm a master student from University of Pennsylvania majoring in Electrical Engineering.  Previously I received a dual BS in Computer Engineering at ZJU and UIUC. 
+- ⭐️ My interests focused on vision-language model and robot learning. Under Prof. Dinesh's guidance, now I am a Research Assistant in the [Perception, Action, and Learning (PAL) Research Group](https://www.seas.upenn.edu/~dineshj/pal/index.html). 
+- 🔭 I'v just finished an internship at IDEA Shenzhen, `Computer Vision & Robotics` Department, where I optimized a multi-thread vision feature extraction module by 16.7%, and I trained 6-layer transformer VLMs for video captioning. 
+- 🌱 I’m diving deeper into advanced topics like Multimoda LLM + Robotics. 
 - 📫 You can reach me at: tonyw3@seas.upenn.edu
-- ⚡ Fun fact: Beyond my love for technology, I also have a passion for coffee and art. Sipping a cup of coffee while appreciating literature/arts is one of my favorite ways to relax.
-- ☕ New club: In ZJU, I set up a new club named "PhiloCoffee". Feel free to contact if you have any idea! https://PhiloCoffee.github.io
+- ⚡ Fun fact: Beyond my love for technology, I also have a passion for coffee and philosophy. Sipping a cup of coffee while appreciating literature/arts is one of my favorite ways to relax.
+- ☕ My club: In ZJU, I found an NPO named "PhiloCoffee Club". Check our chill salons: [https://PhiloCoffee.github.io](https://PhiloCoffee.github.io)~
   
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Everloom-129" />
