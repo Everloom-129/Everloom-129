@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 Hi, I am Jie Wang(王杰), you can call me Tony. 
 
-- 📖 I'm a master student from University of Pennsylvania majoring in Electrical Engineering.  Previously I received a dual BS in Computer Engineering at ZJU and UIUC. 
+- 📖 I'm a master student from GRASP Lab in University of Pennsylvania.  Previously I received a dual BS in Computer Engineering at ZJU and UIUC. 
 - ⭐️ My interests focused on vision-language model and robot learning. Under Prof. Dinesh's guidance, now I am a Research Assistant in the [Perception, Action, and Learning (PAL) Research Group](https://www.seas.upenn.edu/~dineshj/pal/index.html). 
 - 🔭 I'v just finished an internship at IDEA Shenzhen, `Computer Vision & Robotics` Department, where I optimized a multi-thread vision feature extraction module by 16.7%, and I trained 6-layer transformer VLMs for video captioning. 
 - 🌱 I’m diving deeper into advanced topics like Multimoda LLM + Robotics. 
