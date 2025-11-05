@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 -->
 Hi, I am Jie Wang(王杰), you can call me Tony. 
 
-- 📖 I'm a msrobo from GRASP Lab in University of Pennsylvania.  Previously I received a dual BS in Computer Engineering at ZJU and UIUC. 
-- ⭐️ My interests focused on vision-language model and robot learning. Under Prof. Dinesh's guidance, now I am a Research Assistant in the [Perception, Action, and Learning (PAL) Research Group](https://www.seas.upenn.edu/~dineshj/pal/index.html). And I am doing summer internship at DYNA-Robotics, constructing emboided reasoning for general purpose VLA models. 
+- 📖 I'm a MSROBOer from GRASP Lab in University of Pennsylvania.  Previously I received a dual BS in Computer Engineering at ZJU and UIUC.
+- 🦾 I did a summer internship at DYNA-Robotics, constructing agentic reasoning for general purpose VLA models. 
+- ⭐️ My interests focused on VLAs and robot learning. Under Prof. Dinesh's guidance, now I am a Research Assistant in the [Perception, Action, and Learning (PAL) Research Group](https://www.seas.upenn.edu/~dineshj/pal/index.html).
 - 🔭 I was an intern at IDEA Shenzhen, `Computer Vision & Robotics` Department, where I construct, train and finetune VLMs for video captioning.
 - 🌱 I’m diving deeper into advanced topics like Multimoda LLM + Robotics. 
 - 📫 You can reach me at: tonyw3@seas.upenn.edu
